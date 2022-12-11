@@ -1,6 +1,6 @@
-# GitHub Codespaces ♥️ Jupyter Notebooks
+Jupyter Notebooks
 
-Link al repositorio: 
+Link al repositorio: https://github.com/Jacobo24/Tarea_Sage4.git
 
 Bibliografía: 
 
